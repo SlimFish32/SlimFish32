@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SlimFish32
+- 👀 I’m interested in the crypto world
+- 💞️ I’m looking to collaborate on CryptoCurrencies SmartContract based Projects.
+- 📫 How to reach me .... Maybe dropping an issue on the main repository
